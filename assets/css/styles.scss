@@ -1,0 +1,8 @@
+@import "reset";
+@import "vars";
+@import "layout";
+@import "grid";
+div {
+    border: 1px solid rgb(192, 74, 176);
+    box-sizing: border-box; // pra que a borda seja de dentro pra fora
+}
